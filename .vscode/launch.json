@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "jest",
       "program": "${workspaceFolder}/node_modules/.bin/jest",
-      "args": ["see-https"],
+      "args": ["optional-param"],
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen",
       "disableOptimisticBPs": true
